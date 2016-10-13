@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/jacobsa/oglematchers?status.svg)](https://godoc.org/github.com/jacobsa/oglematchers)
+[![GoDoc](https://godoc.org/github.com/scalingdata/go-oglematchers?status.svg)](https://godoc.org/github.com/scalingdata/go-oglematchers)
 
 `oglematchers` is a package for the Go programming language containing a set of
 matchers, useful in a testing or mocking framework, inspired by and mostly
@@ -38,7 +38,7 @@ First, make sure you have installed Go 1.0.2 or newer. See
 
 Use the following command to install `oglematchers` and keep it up to date:
 
-    go get -u github.com/jacobsa/oglematchers
+    go get -u github.com/scalingdata/go-oglematchers
 
 
 Documentation
@@ -47,10 +47,10 @@ Documentation
 See [here][reference] for documentation. Alternatively, you can install the
 package and then use `godoc`:
 
-    godoc github.com/jacobsa/oglematchers
+    godoc github.com/scalingdata/go-oglematchers
 
 
-[reference]: http://godoc.org/github.com/jacobsa/oglematchers
+[reference]: http://godoc.org/github.com/scalingdata/go-oglematchers
 [golang-install]: http://golang.org/doc/install.html
 [googletest]: http://code.google.com/p/googletest/
 [google-js-test]: http://code.google.com/p/google-js-test/

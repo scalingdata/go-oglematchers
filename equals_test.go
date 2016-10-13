@@ -20,7 +20,7 @@ import (
 	"math"
 	"unsafe"
 
-	. "github.com/jacobsa/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	. "github.com/jacobsa/ogletest"
 )
 

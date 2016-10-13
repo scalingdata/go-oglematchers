@@ -17,7 +17,7 @@ package oglematchers_test
 
 import (
 	"errors"
-	. "github.com/jacobsa/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	. "github.com/jacobsa/ogletest"
 	"testing"
 )

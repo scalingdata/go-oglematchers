@@ -19,7 +19,7 @@ import (
 	"io"
 	"testing"
 
-	. "github.com/jacobsa/oglematchers"
+	. "github.com/scalingdata/go-oglematchers"
 	. "github.com/jacobsa/ogletest"
 )
 
